@@ -23,7 +23,7 @@ Using Technology by HTML CSS Java Script etc.
 
 
 
-<h1>  empaisis or lialic: &lt;em&gt; &lt;i&gt;</h1> <p>code Syntext
+<h1>  empaisis or italic: &lt;em&gt; &lt;i&gt;</h1> <p>code Syntext
 
 <h3>&lt;em&gt; # &lt;/em &gt;<br>This is for use </h3><br>
 
