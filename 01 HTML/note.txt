@@ -1,0 +1,34 @@
+html all tag 
+h1
+p
+bold 
+strong
+
+i
+em
+
+u
+ins
+
+del
+mark
+sup 
+sub
+blockquate
+q tag
+abbr
+bdo dir="rtl"
+
+a
+img
+table
+list type
+
+video <video controls>  <srouce src= "video.mp4; type =video/mp4;
+audio
+form(action method)= input fildset legend
+select & option
+textarea
+
+
+

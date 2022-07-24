@@ -1,0 +1,52 @@
+ background-image: url(); - background img add method
+  background-repeat: no-repeat; - background repeat control
+  background-position: right; - position control
+
+#identifycation method
+1.tag -
+ tag_name{
+    property
+}
+
+02.class -
+
+.class_name{
+    property
+}
+
+03 id - 
+#id_name {
+    property
+}
+
+  #border
+  border-width
+  border-style
+  border-color
+  border-redious
+  all border_name{
+    3px solid black;
+  } 
+  
+  #DIV 
+  <div class="class_name"></div>
+
+  #marin
+  marin- top , left buttom, right
+  margin:33 , 33; top-buttom & left-right
+  margin: 33,55,56; top,middle, buttom
+
+  #outline
+  outline:4px solid green
+  outline-offset :29 px
+
+  #Text_Formet 
+  text-transform: capitalize
+  text-indent- 3px
+  letter-spaceing-33px
+  word spaceing-3
+  line-height-33px
+  font-size-5vw
+
+
+

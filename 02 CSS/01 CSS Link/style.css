@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    text-align: center;
+}
+p{
+    font-size:large;
+    text-align: end;
+    background-color: aqua;
+    text-transform: capitalize;
+}
+body{
+    text-transform: lowercase;
+   
+   
+}
+
+.capital{
+    
+}
+.res{
+    font-size: 2vw;
+    color: rgb(132, 104, 104);
+    text-transform: capitalize;
+    text-indent: 10px;
+    word-spacing: 10px;
+    line-height: 30px;
+}
