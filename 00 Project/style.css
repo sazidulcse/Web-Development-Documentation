@@ -1,0 +1,45 @@
+
+.div1{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    background-color: green;
+}
+.div2{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    border-radius: 50%;
+    background-color: red;
+}
+h1{
+    margin-left:20vw;
+    color: orangered;
+}
+.name{
+    border: 5px solid black;
+    margin-top: 5px;
+    position: sticky;
+    top: 0;
+}
+ul li {
+    display: inline;
+    margin: 20px;
+    border: 1px dotted orangered;
+}
+ p{
+    padding-bottom: 300px;
+    
+}
+.fil{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    color: orangered;
+   
+}
